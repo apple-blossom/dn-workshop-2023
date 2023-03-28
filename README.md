@@ -7,9 +7,11 @@ https://www.python.org/downloads/
 
 **Step 2: Create and activate virtualenv:**
 
-- Open command line (you can find it by entering "terminal" in your system's search pannel) and enter `pip install virtualenv`
+- Open command line (you can find it by entering "terminal" in your system's search pannel) and enter 
+`pip install virtualenv`
 
-- Create virtual environment by `virtualenv venv`
+- Create virtual environment by 
+`virtualenv venv`
 
 Activate virtual environment by: 
 	- Windows PowerShell `venv\Scripts\activate.bat`;
@@ -20,6 +22,7 @@ Activate virtual environment by:
 Open the command prompt and navigate to the python folder and type the following command:
 
 `pip install robotframework-browser`
+
 `rfbrowser init`
 
 **Step 4: Run our first test**
