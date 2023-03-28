@@ -21,6 +21,8 @@ Open the command prompt and navigate to the python folder and type the following
 
 **Usefil links:**
 https://robotframework-browser.org/
+
 https://marketsquare.github.io/robotframework-browser/Browser.html
+
 https://robocorp.com/docs/development-guide/getting-started/simple-example-robot
 
