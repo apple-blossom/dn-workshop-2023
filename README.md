@@ -17,11 +17,11 @@ https://www.python.org/downloads/
 
 Activate virtual environment by: 
 
-	- Windows PowerShell 
+- Windows PowerShell 
 	
-	`venv\Scripts\activate.bat`
+	`venv\Scripts\activate.ps1`
 	
-	- MacOS, Linux 
+- MacOS, Linux 
 	
 	`source venv/bin/activate`
 
