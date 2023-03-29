@@ -45,3 +45,7 @@ https://marketsquare.github.io/robotframework-browser/Browser.html
 
 https://robocorp.com/docs/development-guide/getting-started/simple-example-robot
 
+
+If you have any further questions you can connect with me on [LinkedIn](https://www.linkedin.com/in/catherine-kurtanidze-a35363a1/)
+
+
